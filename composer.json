@@ -1,0 +1,21 @@
+{
+    "name": "searheyrabtsau/people",
+    "description": "test project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rabtsausearhev",
+            "email": "rabtsausearhey@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+        "ext-pdo": "*",
+        "ext-ctype": "*"
+    }
+}
